@@ -1,0 +1,3 @@
+# lololodash
+
+Practicing lodash 
